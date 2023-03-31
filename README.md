@@ -8,3 +8,5 @@
 7. git add file name (e.g git add README.md)
 8. git commit -m "adding and commiting README file"
 9. git push 
+10. git checkout -b feature/new-branch (to create branch of the working branch)
+11. git switch (to switch between branches)
